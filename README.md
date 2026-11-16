@@ -12,7 +12,7 @@ currently under double-blind review.
 | Directory    | Description |
 |--------------|-------------|
 | `fusedfbs/`  | FusedFBS: functional bootstrapping with fused HE linear operations, for conventional and discrete CKKS |
-| `workloads/` | End-to-end FHE inference workloads: ResNet-20 and BERT-Base |
+| `workloads/` | End-to-end FHE inference workloads |
 | `scripts/`   | Scripts to reproduce the tables and figures in the paper |
 
 ## Contact
